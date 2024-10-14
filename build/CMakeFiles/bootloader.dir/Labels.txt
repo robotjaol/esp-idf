@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/home/robotjaol/project/blink/build/CMakeFiles/bootloader
+/home/robotjaol/project/blink/build/CMakeFiles/bootloader.rule
+/home/robotjaol/project/blink/build/CMakeFiles/bootloader-complete.rule
+/home/robotjaol/project/blink/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/home/robotjaol/project/blink/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/home/robotjaol/project/blink/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/home/robotjaol/project/blink/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/home/robotjaol/project/blink/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/home/robotjaol/project/blink/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/home/robotjaol/project/blink/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
